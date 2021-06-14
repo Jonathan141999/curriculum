@@ -1,0 +1,4 @@
+https://youtu.be/MQu0ajTkoyM
+
+En esta ruta esta la apk para poder probar en el celular
+C:\Users\Alquinga\proyectoionic\DeberJA\platforms\android\app\build\outputs\apk\debug
